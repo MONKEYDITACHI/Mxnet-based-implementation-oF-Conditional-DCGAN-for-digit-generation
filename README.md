@@ -1,1 +1,1 @@
-# Mxnet-based-implementation-oF-Conditional-DCGAN-for-digit-generation
+# Mxnet-based-implementation-of-Conditional-DCGAN-for-digit-generation
